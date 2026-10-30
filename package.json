@@ -1,0 +1,22 @@
+{
+  "name": "project8am23feb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "smoke": "npx playwright test --grep @smoke --project=chrome",
+    "regression": "npx playwright test --grep @regression --project=chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.1.2",
+    "allure-playwright": "^3.14.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

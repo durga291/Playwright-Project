@@ -1,0 +1,1 @@
+[{"uid":"988e7ea6b1578acd","name":"login @smoke @regression","time":{"start":1793247072122,"stop":1793247075789,"duration":3667},"status":"passed","severity":"normal"},{"uid":"b939531cab7a6475","name":"@smoke registration","time":{"start":1793247065859,"stop":1793247071709,"duration":5850},"status":"passed","severity":"normal"}]
